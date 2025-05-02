@@ -1,0 +1,9 @@
+Flask
+Werkzeug
+Flask-Login
+joblib
+scikit-learn
+numpy
+pandas
+python-dateutil
+gunicorn
