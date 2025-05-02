@@ -59,7 +59,7 @@ To run the project locally:
 1. Clone the repository
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the Flask application: `python app.py`
-4. Access at: <a href="https://seintiment-analysis.onrender.com/" target="_blank">Application_demo</a>
+4. Access at: `"https://seintiment-analysis.onrender.com/" `
 
 ## YouTube Video
 This section will showcase the output of the project. You can watch the video [here](https://www.youtube.com/watch?v=LMgT02ONujQ).
